@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1052856759540",
+    "project_id": "wineapp-320016",
+    "storage_bucket": "wineapp-320016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052856759540:android:582828b3cfe55d63011aa1",
+        "android_client_info": {
+          "package_name": "com.wineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052856759540-v5bohs1f20pr4eqdg1kca4e7kj0j774g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wineapp",
+            "certificate_hash": "1c7dbf9616cf420c12dc6fb07f07354dfb77f69a"
+          }
+        },
+        {
+          "client_id": "1052856759540-d8gf68kja6kal3p2j898sa45gjden4ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yiatKE5bjpV7Z0DPBxUQ9diMQ7rAE1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052856759540-d8gf68kja6kal3p2j898sa45gjden4ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052856759540-ohbchl2c4g50qla9gt43fcgif92knjlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.WineApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
